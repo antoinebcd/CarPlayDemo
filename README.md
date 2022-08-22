@@ -1,7 +1,5 @@
 # CarPlay Sample
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 Sample code that implements the CarPlay interface of iOS13.
 
 ## Getting Started
@@ -14,8 +12,5 @@ Sample code that implements the CarPlay interface of iOS13.
 
 ## Author
 
-Watanabe Toshinori – toshinori_watanabe@tiny.blue
+Antoine Petipont
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
